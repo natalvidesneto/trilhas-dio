@@ -1,0 +1,51 @@
+{
+  "name": "Natalvides Neto",
+  "photo": "https://avatars.githubusercontent.com/u/153453733?v=4",
+  "job": "Bacharel Engenharia de Software",
+  "location": "Pará",
+  "phone": "(94) 9999-9999",
+  "email": "emailtestedoneto@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Node.js",
+        "logo": "assets/img/icons/nodejs.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "assets/img/icons/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "assets/img/icons/css.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "assets/img/icons/mysql.png"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Comprometimento"
+    ]
+  },
+  "languages": [
+    "Português BR"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/natalvidesneto/dio-trilha-javascript/tree/main/01-Pokedex",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estudante de Engenharia de Software",
+      "period": "Atualmente",
+      "description": "Em formação acadêmica, desenvolvendo projetos práticos e expandindo conhecimentos em desenvolvimento de software."
+    }
+  ]
+}
