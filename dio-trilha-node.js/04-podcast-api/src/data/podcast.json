@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "titulo": "Radio Otaku Brasil",
+    "descricao": "Debates semanais sobre os lançamentos da temporada de animes, análises de episódios e teorias dos fãs.",
+    "categoria": "Notícias e Análises"
+  },
+  {
+    "id": 2,
+    "titulo": "Zona Shonen",
+    "descricao": "Tudo sobre o universo das grandes lutas, poderes do mistério e o poder do protagonismo no mundo Shonen.",
+    "categoria": "Shonen"
+  },
+  {
+    "id": 3,
+    "titulo": "Nostalgia Anos 90 Anime",
+    "descricao": "Relembrando os clássicos que marcaram a infância na TV aberta: Dragon Ball, Cavaleiros do Zodíaco e Yu Yu Hakusho.",
+    "categoria": "Nostalgia"
+  },
+  {
+    "id": 4,
+    "titulo": "Isekai Sem Volta",
+    "descricao": "Um podcast dedicado exclusivamente aos melhores, piores e mais bizarros animes de transporte para outro mundo.",
+    "categoria": "Isekai"
+  },
+  {
+    "id": 5,
+    "titulo": "Café com Shojo",
+    "descricao": "Conversas leves e apaixonadas sobre romances, dramas e histórias do cotidiano nos animes Shojo e Josei.",
+    "categoria": "Shojo & Romance"
+  },
+  {
+    "id": 6,
+    "titulo": "Cine Ghibli & Cia",
+    "descricao": "Análises profundas de filmes de animação japonesa, com foco em direção, arte, trilha sonora e narrativa.",
+    "categoria": "Filmes e Animação"
+  },
+  {
+    "id": 7,
+    "titulo": "Manga ao Anime",
+    "descricao": "Comparações detalhadas entre as obras originais em mangá e suas adaptações para as telas.",
+    "categoria": "Adaptações"
+  },
+  {
+    "id": 8,
+    "titulo": "Dark Fantasy Cast",
+    "descricao": "Explorando o lado sombrio dos animes: terror, mistério, suspense e fantasias sombrias como Berserk e Attack on Titan.",
+    "categoria": "Terror e Dark Fantasy"
+  },
+  {
+    "id": 9,
+    "titulo": "Mecha & Engrenagens",
+    "descricao": "Um espaço para os apaixonados por robôs gigantes, ficção científica e batalhas espaciais épicas.",
+    "categoria": "Mecha e Sci-Fi"
+  },
+  {
+    "id": 10,
+    "titulo": "Slice of Life FM",
+    "descricao": "O podcast perfeito para relaxar ouvindo análises de animes calmos, comédias leves e histórias do dia a dia.",
+    "categoria": "Slice of Life"
+  },
+  {
+    "id": 11,
+    "titulo": "Lendas de Seinen",
+    "descricao": "Análises filosóficas, psicológicas e maduras sobre os maiores títulos da categoria Seinen.",
+    "categoria": "Seinen"
+  },
+  {
+    "id": 12,
+    "titulo": "Aberturas Inesquecíveis",
+    "descricao": "Discutindo a trilha sonora dos animes, das J-Rock contagiantes até as aberturas mais marcantes da história.",
+    "categoria": "Música e Trilha Sonora"
+  },
+  {
+    "id": 13,
+    "titulo": "Dublagem & Bastidores",
+    "descricao": "Entrevistas e curiosidades sobre o mercado da dublagem brasileira e vozes originais japonesas.",
+    "categoria": "Bastidores e Dublagem"
+  },
+  {
+    "id": 14,
+    "titulo": "Sessão Oculta",
+    "descricao": "Recomendando animes pouco conhecidos, obras cults e pérolas escondidas da animação japonesa.",
+    "categoria": "Recomendações e Cult"
+  },
+  {
+    "id": 15,
+    "titulo": "Esporte na Tela",
+    "descricao": "Analisando a emoção, a tática e o espírito de equipe nos animes de esportes como Haikyuu!! e Blue Lock.",
+    "categoria": "Esportes"
+  },
+  {
+    "id": 16,
+    "titulo": "Vilões e Anti-Heróis",
+    "descricao": "Episódios focado na psicologia e motivações dos antagonistas mais marcantes do mundo dos animes.",
+    "categoria": "Análise de Personagens"
+  },
+  {
+    "id": 17,
+    "titulo": "Cozinha dos Animes",
+    "descricao": "Recriando e discutindo os pratos mais suculentos mostrados em animes culinários e do cotidiano.",
+    "categoria": "Culinária e Cultura"
+  },
+  {
+    "id": 18,
+    "titulo": "Cosplay & Comunidade",
+    "descricao": "Histórias, dicas de confecção de trajes e os bastidores dos maiores eventos de cultura pop japonesa.",
+    "categoria": "Cultura Pop e Eventos"
+  },
+  {
+    "id": 19,
+    "titulo": "Teorias Sem Fim",
+    "descricao": "Discussões mirabolantes, furos de roteiro e teorias absurdas sobre os animes mais populares do momento.",
+    "categoria": "Teorias e Entretenimento"
+  },
+  {
+    "id": 20,
+    "titulo": "Guia de Temporada",
+    "descricao": "Um guia completo com apostas, primeiras impressões e notas para todos os lançamentos de cada estação.",
+    "categoria": "Guias e Reviews"
+  }
+]
