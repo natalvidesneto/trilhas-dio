@@ -1,0 +1,26 @@
+{
+  "name": "api-bomba-patch-2026",
+  "version": "1.0.0",
+  "description": "API GET Bomba Patch 2026 com autenticação via API Key",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "tsx src/server.ts"
+  },
+  "keywords": ["Node.Js", "Typescript", "Express", "Bomba Patch"],
+  "author": "Natalvides Neto (https://github.com/natalvidesneto)",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.4",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^7.0.2"
+  }
+}

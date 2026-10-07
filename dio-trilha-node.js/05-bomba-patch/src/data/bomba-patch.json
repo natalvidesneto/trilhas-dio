@@ -1,0 +1,27 @@
+{
+  "nome_patch": "Bomba Patch 2026",
+  "versao": "2026.10",
+  "slogan": "100% Atualizado - É Ruim de Aturar!",
+  "jogadores": [
+    { "id": 1, "nome": "Vinícius Júnior", "time": "Real Madrid", "pais": "Brasil" },
+    { "id": 2, "nome": "Neymar Jr.", "time": "Al-Hilal", "pais": "Brasil" },
+    { "id": 3, "nome": "Kylian Mbappé", "time": "Real Madrid", "pais": "França" },
+    { "id": 4, "nome": "Erling Haaland", "time": "Manchester City", "pais": "Noruega" },
+    { "id": 5, "nome": "Lionel Messi", "time": "Inter Miami", "pais": "Argentina" },
+    { "id": 6, "nome": "Cristiano Ronaldo", "time": "Al-Nassr", "pais": "Portugal" },
+    { "id": 7, "nome": "Lucas Paquetá", "time": "Flamengo", "pais": "Brasil" },
+    { "id": 8, "nome": "Gerson", "time": "Cruzeiro", "pais": "Brasil" },
+    { "id": 9, "nome": "Gabigol", "time": "Santos", "pais": "Brasil" },
+    { "id": 10, "nome": "Endrick", "time": "Real Madrid", "pais": "Brasil" },
+    { "id": 11, "nome": "Jude Bellingham", "time": "Real Madrid", "pais": "Inglaterra" },
+    { "id": 12, "nome": "Lamine Yamal", "time": "Barcelona", "pais": "Espanha" },
+    { "id": 13, "nome": "Rodrygo", "time": "Real Madrid", "pais": "Brasil" },
+    { "id": 14, "nome": "Estêvão", "time": "Chelsea", "pais": "Brasil" },
+    { "id": 15, "nome": "Luiz Henrique", "time": "Botafogo", "pais": "Brasil" },
+    { "id": 16, "nome": "Kevin De Bruyne", "time": "Manchester City", "pais": "Bélgica" },
+    { "id": 17, "nome": "Harry Kane", "time": "Bayern de Munique", "pais": "Inglaterra" },
+    { "id": 18, "nome": "Mohamed Salah", "time": "Liverpool", "pais": "Egito" },
+    { "id": 19, "nome": "Raphinha", "time": "Barcelona", "pais": "Brasil" },
+    { "id": 20, "nome": "Pedri", "time": "Barcelona", "pais": "Espanha" }
+  ]
+}
