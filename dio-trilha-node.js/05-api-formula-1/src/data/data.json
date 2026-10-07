@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nome": "Max Verstappen",
+    "equipe": "Red Bull Racing"
+  },
+  {
+    "id": 2,
+    "nome": "Isack Hadjar",
+    "equipe": "Red Bull Racing"
+  },
+  {
+    "id": 3,
+    "nome": "Lando Norris",
+    "equipe": "McLaren"
+  },
+  {
+    "id": 4,
+    "nome": "Oscar Piastri",
+    "equipe": "McLaren"
+  },
+  {
+    "id": 5,
+    "nome": "Charles Leclerc",
+    "equipe": "Ferrari"
+  },
+  {
+    "id": 6,
+    "nome": "Lewis Hamilton",
+    "equipe": "Ferrari"
+  },
+  {
+    "id": 7,
+    "nome": "George Russell",
+    "equipe": "Mercedes"
+  },
+  {
+    "id": 8,
+    "nome": "Andrea Kimi Antonelli",
+    "equipe": "Mercedes"
+  },
+  {
+    "id": 9,
+    "nome": "Fernando Alonso",
+    "equipe": "Aston Martin"
+  },
+  {
+    "id": 10,
+    "nome": "Lance Stroll",
+    "equipe": "Aston Martin"
+  },
+  {
+    "id": 11,
+    "nome": "Pierre Gasly",
+    "equipe": "Alpine"
+  },
+  {
+    "id": 12,
+    "nome": "Franco Colapinto",
+    "equipe": "Alpine"
+  },
+  {
+    "id": 13,
+    "nome": "Esteban Ocon",
+    "equipe": "Haas"
+  },
+  {
+    "id": 14,
+    "nome": "Oliver Bearman",
+    "equipe": "Haas"
+  },
+  {
+    "id": 15,
+    "nome": "Liam Lawson",
+    "equipe": "Racing Bulls"
+  },
+  {
+    "id": 16,
+    "nome": "Arvid Lindblad",
+    "equipe": "Racing Bulls"
+  },
+  {
+    "id": 17,
+    "nome": "Alex Albon",
+    "equipe": "Williams"
+  },
+  {
+    "id": 18,
+    "nome": "Carlos Sainz",
+    "equipe": "Williams"
+  },
+  {
+    "id": 19,
+    "nome": "Nico Hülkenberg",
+    "equipe": "Audi"
+  },
+  {
+    "id": 20,
+    "nome": "Gabriel Bortoleto",
+    "equipe": "Audi"
+  },
+  {
+    "id": 21,
+    "nome": "Sergio Pérez",
+    "equipe": "Cadillac"
+  },
+  {
+    "id": 22,
+    "nome": "Valtteri Bottas",
+    "equipe": "Cadillac"
+  }
+]
