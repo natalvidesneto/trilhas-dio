@@ -1,0 +1,165 @@
+/* Configuração dos Temas */
+:root {
+  --bg-color: #e0eaf5; /* Fundo claro azulado */
+  --calc-bg: rgba(255, 255, 255, 0.4);
+  --calc-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
+  --text-color: #333;
+  --btn-bg: rgba(255, 255, 255, 0.5);
+  --btn-text: #333;
+  --btn-hover: rgba(255, 255, 255, 0.8);
+  --operator-bg: #2d7ff9;
+  --operator-text: #fff;
+  --equals-bg: #2d7ff9;
+  --equals-text: #fff;
+  --display-sub: #888;
+  --border-color: rgba(255, 255, 255, 0.5);
+}
+
+.dark {
+  --bg-color: #0f172a; /* Fundo escuro */
+  --calc-bg: rgba(20, 25, 40, 0.9);
+  --calc-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.6);
+  --text-color: #fff;
+  --btn-bg: #1e293b;
+  --btn-text: #fff;
+  --btn-hover: #334155;
+  --operator-bg: #1e3a8a; /* Azul escuro para operadores */
+  --operator-text: #60a5fa;
+  --equals-bg: #2563eb;
+  --equals-text: #fff;
+  --display-sub: #94a3b8;
+  --border-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Container Principal */
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-color);
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+}
+
+/* A Calculadora */
+.calculator {
+  width: 340px;
+  height: 600px;
+  border-radius: 40px;
+  padding: 25px;
+  background: var(--calc-bg);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: var(--calc-shadow);
+  border: 1px solid var(--border-color);
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+/* Display (Tela) */
+.display-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-bottom: 20px;
+  padding-right: 10px;
+}
+
+.expression {
+  color: var(--display-sub);
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  min-height: 24px;
+}
+
+.display {
+  color: var(--text-color);
+  font-size: 3rem;
+  font-weight: 600;
+  word-wrap: break-word;
+  text-align: right;
+}
+
+/* Teclado */
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+}
+
+/* Estilização Geral dos Botões */
+button {
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 65px;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+/* Botões de Número */
+.btn-number {
+  background: var(--btn-bg);
+  color: var(--btn-text);
+  font-weight: 500;
+}
+
+.btn-number:hover {
+  background: var(--btn-hover);
+}
+
+/* Botões de Operador (+ - x /) */
+.btn-operator {
+  background: var(--operator-bg);
+  color: var(--operator-text);
+  font-weight: 600;
+}
+
+.btn-operator:hover {
+  opacity: 0.9;
+}
+
+/* Botões de Função (Ac, ±, %) */
+.btn-function {
+  background: transparent;
+  color: var(--text-color);
+  font-size: 1.2rem;
+  font-weight: 600;
+  opacity: 0.7;
+}
+
+.btn-function:hover {
+  opacity: 1;
+  background: var(--btn-hover);
+}
+
+/* Botão Igual */
+.btn-equals {
+  background: var(--equals-bg);
+  color: var(--equals-text);
+  grid-column: span 1;
+  grid-row: span 2; /* Ocupa duas linhas */
+  height: 100%;
+}
+
+/* Ajuste do Botão Zero */
+.btn-zero {
+  grid-column: span 2;
+  justify-content: flex-start;
+  padding-left: 30px;
+}
